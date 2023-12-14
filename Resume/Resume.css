@@ -1,0 +1,83 @@
+.profile{
+	border: 2px solid black;
+	height: 1000px;
+	width: 30%;
+	background-color: rgb(3, 3, 130);
+	color: white;
+	font-size:medium;
+	margin: 0px;
+	
+	
+	padding: 10px;
+	margin-right: 30px;
+  }
+  .image{
+	height: 160px;
+	width: 160px;
+	border: 3px dotted white;
+	background-image: url(123.jpeg);
+	background-origin: border-box;
+	background-size: cover;
+	background-clip: padding-box;
+	float:right;
+	margin-top: -1450px;
+	background-position: center;
+	margin-right: 200px;
+	border-radius: 90px;
+  
+	
+  
+  }
+  
+  
+  body{
+	background-color: white;
+	height: 200px;
+  }
+
+  .abc{
+	background-color: rgb(1, 1, 63);
+  }
+
+  .abc1{
+	background-color: rgb(1, 1, 63);
+
+  }
+
+  .abc2{
+	background-color: rgb(1, 1, 63);
+  }
+
+  .abc3{
+	background-color:rgb(1, 1, 63);
+  }
+  .project{
+	border: 2px solid white;
+	height: 1100px;
+	width: 1000px;
+	background-color:white;
+	color: black;
+	float: right;
+	margin-top: -1000px;
+	border-radius: 20px;
+  }
+  .internship{
+	border: 2px solid white;
+	height: 1100px;
+	width: 1000px;
+	background-color:white;
+	color: black;
+	float: right;
+	margin-top: -750px;
+	border-radius: 20px;
+  }
+  .information{
+	
+	height: 1600px;
+	width: 1000px;
+	background-color:white;
+	color: black;
+	float: right;
+	margin-top: -900px;
+	border-radius: 20px;
+  }
